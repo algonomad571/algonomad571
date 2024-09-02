@@ -33,6 +33,8 @@ Check out my repositories for a glimpse of what I've been working on
 ![API](https://img.shields.io/badge/API-005571?style=flat&logo=api&logoColor=white)
 ![JSON Web Token](https://img.shields.io/badge/JSON%20Web%20Token-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-7F4F1D?style=flat&logo=oauth&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-000000?style=flat&logo=hyperledger&logoColor=white)
 
 ## 📫 Contact
 
