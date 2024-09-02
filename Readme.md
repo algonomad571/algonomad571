@@ -1,22 +1,39 @@
-### Hi there, I'm Muskan Srivastav! 👋
+# Hi there, I'm Muskan Srivastav 👋
 
-I'm a passionate **Computer Science** student currently in my sophomore year, eager to explore the vast and exciting field of technology.
+## 🎓 Education
+I'm a sophomore at [VIT Bhopal University](https://www.vitbhopal.ac.in/), pursuing a BTech in Computer Science and Engineering.
 
-- 🌱 **Learning:** Continuously expanding my knowledge in computer science, focusing on mastering coding and development.
-- 💻 **Skill Set:**
+## 🚀 Skills
 
-  <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain">
-  <img src="https://img.shields.io/badge/JSON_Web_Token-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JSON Web Token">
-  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="API">
-  <img src="https://img.shields.io/badge/DSA-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="DSA">
-  <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  </p>
+- **Programming Languages**: C++, Python
+- **Data Structures & Algorithms (DSA)**: Proficient
+- **Blockchain**: Bitcoin, Hyperledger Fabric
+- **Web Development**: Flask (Python), API, JSON Web Token, OAuth 2.0
+- **Tools & Technologies**: MATLAB, Git Bash, GitHub, Visual Studio 2022, CMake, Version Control
 
-- 🚀 **Hackathons:** Participated in several hackathons, including [mention any notable ones, if you want].
-- 🔍 **Exploring:** Always on the lookout for new challenges and learning opportunities in software development and system programming.
+## 📊 GitHub Stats
 
+![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan171105&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🌟 Projects
+
+Check out my repositories for a glimpse of what I've been working on
+
+## 🛠️ Badges
+
+![C++](https://img.shields.io/badge/C%2B%2B-5E5F6F?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-FC8D62?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version%20Control-007ACC?style=flat&logo=git&logoColor=white)
+![API](https://img.shields.io/badge/API-005571?style=flat&logo=api&logoColor=white)
+![JSON Web Token](https://img.shields.io/badge/JSON%20Web%20Token-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-7F4F1D?style=flat&logo=oauth&logoColor=white)
+
+## 📫 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muskan-srivastav-054b2027a) or email me at [muskansrivastav517@gmail.com](mailto:muskansrivastav517@gmail.com).
