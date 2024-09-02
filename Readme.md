@@ -13,6 +13,8 @@ I'm a passionate **Computer Science** student currently in my sophomore year, ea
   <img src="https://img.shields.io/badge/JSON_Web_Token-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JSON Web Token">
   <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="API">
   <img src="https://img.shields.io/badge/DSA-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="DSA">
+  <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
   </p>
 
 - 🚀 **Hackathons:** Participated in several hackathons, including [mention any notable ones, if you want].
