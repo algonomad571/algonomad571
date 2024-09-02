@@ -17,3 +17,4 @@ I'm a passionate **Computer Science** student currently in my sophomore year, ea
 
 - 🚀 **Hackathons:** Participated in several hackathons, including [mention any notable ones, if you want].
 - 🔍 **Exploring:** Always on the lookout for new challenges and learning opportunities in software development and system programming.
+
