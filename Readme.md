@@ -1,7 +1,7 @@
 # Hi there, I'm Muskan Srivastav 👋
 
 ## 🎓 Education
-I'm a sophomore at [VIT Bhopal University](https://www.vitbhopal.ac.in/), pursuing a BTech in Computer Science and Engineering.
+I'm a sophomore at VIT Bhopal University, pursuing a BTech in Computer Science and Engineering.
 
 ## 🚀 Skills
 
