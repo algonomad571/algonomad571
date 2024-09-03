@@ -30,10 +30,11 @@ I'm a sophomore at VIT Bhopal University, pursuing a BTech in Computer Science a
   - ![Version Control](https://img.shields.io/badge/Version%20Control-007ACC?style=plastic&logo=git&logoColor=white)
   - ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
 ![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan171105&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan171105&layout=compact&theme=radical)
+
 
 ## 🌟 Projects
 
