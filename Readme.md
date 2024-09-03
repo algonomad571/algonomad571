@@ -32,8 +32,8 @@ I'm a sophomore at VIT Bhopal University, pursuing a BTech in Computer Science a
 
 ## 📊 GitHub Stats
 
-![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan171105&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan171105&layout=compact&theme=radical)
+-![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan171105&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan171105&layout=compact&theme=radical)
 
 
 ## 🌟 Projects
