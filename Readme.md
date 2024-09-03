@@ -28,6 +28,7 @@ I'm a sophomore at [VIT Bhopal University](https://www.vitbhopal.ac.in/), pursui
   - ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=plastic&logo=visual-studio&logoColor=white)
   - ![CMake](https://img.shields.io/badge/CMake-064F8C?style=plastic&logo=cmake&logoColor=white)
   - ![Version Control](https://img.shields.io/badge/Version%20Control-007ACC?style=plastic&logo=git&logoColor=white)
+  - ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 ## 📊 GitHub Stats
