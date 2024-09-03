@@ -39,6 +39,11 @@ I'm a sophomore at VIT Bhopal University, pursuing a BTech in Computer Science a
 
 Check out my repositories for a glimpse of what I've been working on :)
 
-## 📫 Contact
+## 📫 Contact Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muskan-srivastav-054b2027a) or email me at [muskansrivastav517@gmail.com](mailto:muskansrivastav517@gmail.com).
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_muskan571)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/xux7S3cn9N)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/muskan_571)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-srivastav-054b2027a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskansrivastav517@gmail.com)
+
