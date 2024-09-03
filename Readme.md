@@ -37,7 +37,7 @@ I'm a sophomore at [VIT Bhopal University](https://www.vitbhopal.ac.in/), pursui
 
 ## 🌟 Projects
 
-Check out my repositories for a glimpse of what I've been working on
+Check out my repositories for a glimpse of what I've been working on :)
 
 ## 📫 Contact
 
