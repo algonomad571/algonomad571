@@ -9,7 +9,8 @@ I'm a sophomore at [VIT Bhopal University](https://www.vitbhopal.ac.in/), pursui
   - ![C++](https://img.shields.io/badge/C%2B%2B-5E5F6F?style=plastic&logo=c%2B%2B&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 
-- **Data Structures & Algorithms (DSA)**: ![DSA](https://img.shields.io/badge/DSA%20-004B49?style=plastic&logo=c%2B%2B&logoColor=white)
+- **Data Structures & Algorithms (DSA)**:
+  -![DSA](https://img.shields.io/badge/DSA%20-004B49?style=plastic&logo=c%2B%2B&logoColor=white)
 - **Blockchain**: 
   - ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=plastic&logo=bitcoin&logoColor=white)
   - ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-000000?style=plastic&logo=hyperledger&logoColor=white)
