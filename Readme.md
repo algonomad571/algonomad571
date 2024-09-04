@@ -45,11 +45,7 @@ I'm a sophomore at VIT Bhopal University, pursuing a BTech in Computer Science a
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/xux7S3cn9N?theme=dark)
-
-## Recent LeetCode Activity
-<!--- LeetCode activity start -->
-<!--- LeetCode activity end -->
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=LeetCode%20Problems%20Solved&query=solved&url=https://leetcode-stats-api.herokuapp.com/xux7S3cn9N)
 
 ## 🌟 Projects
 
