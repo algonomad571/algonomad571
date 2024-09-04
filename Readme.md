@@ -43,10 +43,6 @@ I'm a sophomore at VIT Bhopal University, pursuing a BTech in Computer Science a
 
 [![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=muskan171105&theme=radical)](https://github.com/muskan171105)
 
-## LeetCode Stats
-
-![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=LeetCode%20Problems%20Solved&query=solved&url=https://leetcode-stats-api.herokuapp.com/xux7S3cn9N)
-
 ## 🌟 Projects
 
 Check out my repositories for a glimpse of what I've been working on :)
