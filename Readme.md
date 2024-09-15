@@ -12,8 +12,9 @@ I'm a sophomore at VIT Bhopal University, pursuing a BTech in Computer Science a
 - **Data Structures & Algorithms (DSA)**:
   - ![DSA](https://img.shields.io/badge/DSA%20-004B49?style=plastic&logo=c%2B%2B&logoColor=white)
 - **Blockchain**: 
-  - ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=plastic&logo=bitcoin&logoColor=white)
   - ![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+  - ![Bitcoin](https://img.shields.io/badge/Blockchain-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 
 - **Web Development**: 
   - ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
