@@ -27,8 +27,6 @@
   <a href="https://soliditylang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
   <!-- Ethereum -->
   <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" alt="ethereum" width="40" height="40"/> </a>
-  <!-- Hive Blockchain -->
-  <a href="https://hive.io/" target="_blank"> <img src="https://www.hive.io/images/hive-logo.svg" alt="hive blockchain" width="40" height="40"/> </a>
   <!-- Truffle -->
   <a href="https://trufflesuite.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/22263431?s=280&v=4" alt="truffle" width="40" height="40"/> </a>
   <!-- NumPy -->
@@ -63,9 +61,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <!-- CMake -->
   <a href="https://cmake.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> </a> 
-  <!-- API Integration -->
-  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/API_logo.svg/256px-API_logo.svg.png" alt="API Integration" width="40" height="40"/> </a> 
-  <!-- OAuth 2.0 -->
+   <!-- OAuth 2.0 -->
   <a href="https://oauth.net/2/" target="_blank"> <img src="https://oauth.net/images/oauth-logo-square.png" alt="oauth 2.0" width="40" height="40"/> </a> 
   <!-- JWT -->
   <a href="https://jwt.io/" target="_blank"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/> </a> 
