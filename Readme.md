@@ -88,18 +88,12 @@
 
 <br><br><br><br><br>
 
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
 
 <div style="display: flex; gap: 10px;">
   <a href="https://leetcode.com/u/xux7S3cn9N/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="muskan50" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/u/xux7S3cn9N/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="muskan50" height="200" width="200" />
-  </a>
-  
-  <a href="https://leetcode.com/u/xux7S3cn9N/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="muskan50" height="200" width="200" />
   </a>
 </div>
 
