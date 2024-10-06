@@ -74,20 +74,29 @@
 </p>
 
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats:</h3>
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> 
+  GitHub Stats:
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskan171105&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="muskan171105" /></p>
+<!-- Top Languages Section -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskan171105&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="muskan171105" />
+</p>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan171105&theme=highcontrast" alt="muskan171105" /></p>
+<!-- GitHub Streak Section -->
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan171105&theme=highcontrast" alt="muskan171105" />
+</p>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muskan171105&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="muskan171105" /></p>
-
-<br><br><br><br><br>
+<!-- GitHub Overall Stats Section -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muskan171105&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="muskan171105" />
+</p>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
