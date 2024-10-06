@@ -1,7 +1,3 @@
-Here's a customized version of your GitHub README based on the details you provided:
-
----
-
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, I'm Muskan Srivastav</h1>
 
 <h3 align="center">A Sophomore at VIT Bhopal University, pursuing a BTech in Computer Science and Engineering</h3>
@@ -59,6 +55,3 @@ Here's a customized version of your GitHub README based on the details you provi
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
 </p>
 
----
-
-You can copy this code to your GitHub repository's `README.md` file. Let me know if you'd like any further changes!
