@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan171105&label=Profile%20views&color=blueviolet&style=plastic" alt="muskan171105" /> </p>
 
-- 🌱 I’m currently exploring **Blockchain development** and working with **AI and ML**.
+- 🌱 I’m currently exploring **Blockchain development**.
 - 📫 How to reach me: **muskansrivastav517@gmail.com**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
