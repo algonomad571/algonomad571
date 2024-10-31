@@ -108,6 +108,9 @@
   <a href="https://leetcode.com/u/xux7S3cn9N/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="muskan50" height="200" width="200" />
   </a>
+  <a href="https://leetcode.com/u/xux7S3cn9N/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="muskan50" height="200" width="200" />
+  </a>
 </div>
 
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/xux7S3cn9N?theme=dark&font=Nunito&ext=heatmap" />  
