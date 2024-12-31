@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan171105&label=Profile%20views&color=blueviolet&style=plastic" alt="muskan171105" /> </p>
 
+---
+
 - 🌱 I’m currently exploring **Blockchain development**.
 - 📫 How to reach me: **muskansrivastav517@gmail.com**
 
@@ -32,22 +34,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
-
-<div style="display: flex; gap: 10px;">
-  <a href="https://leetcode.com/u/xux7S3cn9N/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="muskan50" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/u/xux7S3cn9N/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="muskan50" height="200" width="200" />
-  </a>
-</div>
-
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/xux7S3cn9N?theme=dark&font=Nunito&ext=heatmap" />  
-
-<br><br>
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
-</p>
+# 🔝 LeetCode Stats:
+[![LeetCode](https://leetcard.jacoblin.cool/xux7S3cn9N?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/xux7S3cn9N/)
 
