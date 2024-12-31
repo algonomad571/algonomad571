@@ -34,6 +34,28 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 🔝 LeetCode Stats:
-[![LeetCode](https://leetcard.jacoblin.cool/xux7S3cn9N?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/xux7S3cn9N/)
+# 🧮 LeetCode Stats:
+
+<p align="center">
+  <a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/xux7S3cn9N?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile Card">
+  </a>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 1" width="200" height="200" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
+          <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode Badge 2" width="200" height="200" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
