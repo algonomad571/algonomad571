@@ -37,11 +37,30 @@
 
 # 🧮 LeetCode and Codeforces Stats
 
-<div align="left">
-
 ### LeetCode Stats
-![Leetcode Stats](https://leetcode.com/u/xux7S3cn9N/)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=xux7S3cu9N)](https://github.com/KnlnKS/leetcode-stats)
+
+<div align="center">
+  <img 
+    src="https://img.shields.io/badge/Solved%20Problems-123-brightgreen?style=for-the-badge" 
+    alt="Solved Problems" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Easy-80-brightgreen?style=for-the-badge" 
+    alt="Easy Problems" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Medium-35-yellow?style=for-the-badge" 
+    alt="Medium Problems" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Hard-8-red?style=for-the-badge" 
+    alt="Hard Problems" 
+  />
+</div>
+
+### Profile
+[![Visit My LeetCode Profile](https://img.shields.io/badge/Visit%20Profile-Here-orange?style=for-the-badge)](https://leetcode.com/u/xux7S3cn9N/)
+
 ---
 
 ### Codeforces Stats
