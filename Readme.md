@@ -38,29 +38,7 @@
 # 🧮 LeetCode and Codeforces Stats
 
 ### LeetCode Stats
-
-<div align="center">
-  <img 
-    src="https://img.shields.io/badge/Solved%20Problems-123-brightgreen?style=for-the-badge" 
-    alt="Solved Problems" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Easy-80-brightgreen?style=for-the-badge" 
-    alt="Easy Problems" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Medium-35-yellow?style=for-the-badge" 
-    alt="Medium Problems" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Hard-8-red?style=for-the-badge" 
-    alt="Hard Problems" 
-  />
-</div>
-
-### Profile
-[![Visit My LeetCode Profile](https://img.shields.io/badge/Visit%20Profile-Here-orange?style=for-the-badge)](https://leetcode.com/u/xux7S3cn9N/)
-
+![](https://leetcode-stats-inky.vercel.app/?username=xux7S3cn9N&ranking=true)
 ---
 
 ### Codeforces Stats
