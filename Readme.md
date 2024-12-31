@@ -34,28 +34,31 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 🧮 LeetCode Stats:
+# 🧮 LeetCode and Codeforces Stats:
 
-<p align="center">
+## LeetCode
+<a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/xux7S3cn9N?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile Card" align="left" width="65%">
+</a>
+
+<div>
   <a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/xux7S3cn9N?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile Card">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 1" width="150" height="150" style="margin-right: 20px;">
   </a>
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
-          <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 1" width="200" height="200" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
-          <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode Badge 2" width="200" height="200" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode Badge 2" width="150" height="150">
+  </a>
 </div>
 
+<br/><br/><br/>
+
+## Codeforces
+<a href="https://codeforces.com/profile/muskan1705" target="_blank">
+  <img src="https://cf.leed.at?id=muskan1705" alt="Codeforces Profile Card" align="left" width="65%">
+</a>
+
+<div>
+  <a href="https://codeforces.com/profile/muskan1705" target="_blank">
+    <img src="https://cp-logo.vercel.app/codeforces/muskan1705" alt="Codeforces Rating Badge" width="150" height="150">
+  </a>
+</div>
