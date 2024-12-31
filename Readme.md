@@ -7,84 +7,30 @@
 - 🌱 I’m currently exploring **Blockchain development**.
 - 📫 How to reach me: **muskansrivastav517@gmail.com**
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
 
-<p align="left">
-<a href="mailto:muskansrivastav517@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="muskan171105" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muskan-srivastav-054b2027a/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="muskan171105" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/xux7S3cn9N/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muskan171105" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/muskan_571"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=codeforces" alt="muskan171105" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/muskan1711) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_muskan571) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muskan-srivastav-054b2027a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muskan571) 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muskan171105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muskan171105&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan171105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> 
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-  <!-- C++ -->
-  <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
-  <!-- Solidity -->
-  <a href="https://soliditylang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="50" height="50"/> </a> 
-  <!-- Ethereum -->
-  <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" alt="ethereum" width="50" height="50"/> </a>
-  <!-- Truffle -->
-  <a href="https://trufflesuite.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/22263431?s=280&v=4" alt="truffle" width="50" height="50"/> </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a> 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> </a> 
-  <!-- Visual Studio -->
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a> 
-  <!-- CMake -->
-  <a href="https://cmake.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="50" height="50"/> </a> 
-  <!-- OAuth 2.0 -->
-  <a href="https://oauth.net/2/" target="_blank"> <img src="https://oauth.net/images/oauth-logo-square.png" alt="oauth 2.0" width="50" height="50"/> </a> 
-  <!-- JWT -->
-  <a href="https://jwt.io/" target="_blank"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="50" height="50"/> </a> 
-  <!-- Metamask -->
-  <a href="https://metamask.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metamask/metamask-original.svg" alt="metamask" width="50" height="50"/> </a> 
-  <!-- Ganache -->
-  <a href="https://www.trufflesuite.com/ganache" target="_blank"> <img src="https://trufflesuite.com/img/icons/ganache-logo-dark.svg" alt="ganache" width="50" height="50"/> </a>
-  <!-- IPFS -->
-  <a href="https://ipfs.io/" target="_blank"> <img src="https://ipfs.io/ipfs/QmX2JjZg17Dbwb4FKT9g2fBbNscKJkk8K7dYoF4nVwf71W" alt="ipfs" width="50" height="50"/> </a> 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muskan171105&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muskan171105&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> 
-  GitHub Stats:
-</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=muskan171105&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Top Languages Section -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskan171105&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="muskan171105" />
-</p>
-
-<br><br><br><br><br><br><br><br>
-
-<!-- GitHub Streak Section -->
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan171105&theme=highcontrast" alt="muskan171105" />
-</p>
-
-<br><br><br><br><br><br><br><br>
-
-<!-- GitHub Overall Stats Section -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muskan171105&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="muskan171105" />
-</p>
-
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
 
