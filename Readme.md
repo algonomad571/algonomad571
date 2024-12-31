@@ -46,8 +46,4 @@
 ---
 
 ### Codeforces Stats
-<a href="https://codeforces.com/profile/muskan1705" target="_blank">
-  <img src="https://cf.leed.at?id=muskan1705" alt="Codeforces Stats" width="70%">
-</a>
-
-</div>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=muskan1705)
