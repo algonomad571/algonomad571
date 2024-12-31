@@ -39,10 +39,7 @@
 <div align="left">
 
 ### LeetCode Stats
-<a href="https://leetcode.com/xux7S3cn9N/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/xux7S3cn9N?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="70%">
-</a>
-
+![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/u/xux7S3cn9N/))
 ---
 
 ### Codeforces Stats
