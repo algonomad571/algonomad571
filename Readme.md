@@ -39,7 +39,7 @@
 <div align="left">
 
 ### LeetCode Stats
-![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/u/xux7S3cn9N/))
+![Leetcode Stats](https://leetcode.com/u/xux7S3cn9N/)
 ---
 
 ### Codeforces Stats
