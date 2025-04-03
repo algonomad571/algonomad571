@@ -39,7 +39,3 @@
 
 ### LeetCode Stats
 ![](https://leetcode-stats-inky.vercel.app/?username=Algonomad571&ranking=true)
----
-
-### Codeforces Stats
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=muskan1705)
