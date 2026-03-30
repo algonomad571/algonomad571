@@ -87,16 +87,7 @@ Not interested in CRUD. Interested in systems that **can't afford to be slow**.
 - Distributed saga orchestration for cross-service transaction consistency
 - Full observability stack: structured logging, tracing, alerting, and metrics
 
----
 
-### [`AutoQuant`](https://github.com/algonomad571) — DeFi Algorithmic Trading Engine
-> On-chain execution engine designed for EVM-based DeFi strategies.
-
-- **MEV-aware safeguards** — transaction ordering, frontrun detection, slippage protection
-- Smart contract execution pipeline with Solidity + off-chain strategy layer in Go
-- Private mempool submission paths and gas optimization for competitive execution
-
----
 
 ### [`Rogi Mitra`](https://github.com/algonomad571) — Hospital Management System
 > QR-based patient management platform for multi-department hospital workflows.
